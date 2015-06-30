@@ -65,6 +65,9 @@ endif
 # Additional packages
 -include vendor/omni/config/packages.mk
 
+# Additional packages vendor
+-include vendor/add/config/add.mk
+
 # Versioning
 -include vendor/omni/config/version.mk
 
