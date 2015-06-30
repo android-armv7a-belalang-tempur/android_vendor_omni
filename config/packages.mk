@@ -7,9 +7,9 @@ endif
 
 # Additional apps
 PRODUCT_PACKAGES += \
-    Apollo \
+    Eleven \
     audio_effects.conf \
-    DSPManager \
+    AudioFX \
     libcyanogen-dsp \
     MonthCalendarWidget \
     OpenDelta \
